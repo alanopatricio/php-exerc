@@ -1,0 +1,6 @@
+Crie uma função chamada divisors, que receba um número inteiro e retorne um array com todos os divisores do número inteiro (exceto 1 e o próprio número), do menor ao maior. Se o número for primo, retorne a string:'(integer) is prime'.
+
+Exemplos:
+divisors(12); // => [2, 3, 4, 6]
+divisors(25); // => [5]
+divisors(13); // => '13 is prime'
