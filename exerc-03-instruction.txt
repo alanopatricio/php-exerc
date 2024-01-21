@@ -9,3 +9,5 @@ The quick brown fox jumps over the lazy dog
 Exemplos False:  
 A pangram is a sentence that contains every single letter of the alphabet at least once
 5B!e i J x*p F h d!A:o q D y n6L%u9i.G9f2g4C a h+K!m+z:R t!j:B w s C
+
+Esse exercicio foi retirado de: https://www.codewars.com/kata/545cedaa9943f7fe7b000048/train/php
