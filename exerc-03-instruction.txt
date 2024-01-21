@@ -1,0 +1,11 @@
+Um pangrama é uma frase que contém todas as letras do alfabeto pelo menos uma vez. Por exemplo, a frase “The quick brown fox jumps over the lazy dog” é um pangrama, porque usa as letras AZ pelo menos uma vez (case é irrelevante).
+
+Dada uma string, detecte se é ou não um pangrama. Retorne True se for, False se não. Ignore números e pontuação.
+
+Exemplos True:
+The quick brown fox jumps over the lazy dog
+1L%r+f4G!e7w V z q6M h4d F3b+t O2n e K^g+c#S^i4i X7c-u P5d7j Y6a(a B")
+
+Exemplos False:  
+A pangram is a sentence that contains every single letter of the alphabet at least once
+5B!e i J x*p F h d!A:o q D y n6L%u9i.G9f2g4C a h+K!m+z:R t!j:B w s C
